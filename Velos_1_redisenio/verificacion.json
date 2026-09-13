@@ -1,0 +1,15 @@
+{
+  "source_sha256": "3c942eb5f5588da22cd8335b3e3a81f99fb4b31558649d6872cf38afbe04c837",
+  "routing": {
+    "F.Cu": {
+      "segments": 90,
+      "mm": 325.80499257606675
+    },
+    "B.Cu": {
+      "segments": 182,
+      "mm": 889.6507367626268
+    }
+  },
+  "source": "Velos_1\\Velos_1.kicad_pcb",
+  "vias": 0
+}

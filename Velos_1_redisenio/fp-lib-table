@@ -1,0 +1,4 @@
+(fp_lib_table
+ (version 7)
+ (lib (name "Velos_Local") (type "KiCad") (uri "${KIPRJMOD}/footprints.pretty") (options "") (descr "Footprints preservados del proyecto Velos"))
+)
